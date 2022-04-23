@@ -84,5 +84,8 @@ For more information refer to [kitty Documentation](https://sw.kovidgoyal.net/ki
 * [Noto Sans JP](https://fonts.google.com/noto/specimen/Noto+Sans+JP) used in polybar workspaces.
 
 ---
+<div align="center">
 
-![GitHub](https://img.shields.io/github/license/brsalcedom/dotfiles?logo=Github&style=flat-square)
+<a href="https://github.com/Brsalcedom/dotfiles/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/brsalcedom/dotfiles?logo=Github&style=flat-square">
+
+</div>
