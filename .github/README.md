@@ -2,7 +2,7 @@
 
 # Introduction
 
-Inspired by the setup from [s4vitar](https://github.com/s4vitar) i decided to create my own custom rice using Arch Linux and my favorite software and tools. The purpose of this repo is to organize my settings, scripts and keyboard shortcuts and make it available for anyone who wants to use it. I'm not going through the installation process.
+Inspired by [s4vitar's setup](https://youtu.be/fshLf6u8B-w) i decided to create my own custom rice using Arch Linux and my favorite software and tools. The purpose of this repo is to organize my settings, scripts and keyboard shortcuts and make it available for anyone who wants to use it. I'm not going through the installation process.
 
 ---
 
@@ -15,7 +15,6 @@ Inspired by the setup from [s4vitar](https://github.com/s4vitar) i decided to cr
 ![](assets/desktop-3.png)
 
 
-
 ---
 
 # Components
@@ -26,7 +25,7 @@ Inspired by the setup from [s4vitar](https://github.com/s4vitar) i decided to cr
 * [polybar](https://github.com/polybar/polybar) used as status bar and for custom scripts.
 * [dunst](https://github.com/dunst-project/dunst) for notifications.
 * [picom](https://github.com/yshui/picom) compositor for transparency and round corners.
-* [rofi](https://github.com/davatorium/rofi) as program launcher
+* [rofi](https://github.com/davatorium/rofi) as program launcher.
 
 
 ---
@@ -62,7 +61,7 @@ For more keybinds check ```.config/sxhkd/sxhkdrc```.
 | ```ctrl + shift + l```       | arrange windows layout       |
 
 
-For more information refer to [kitty Documentation](https://sw.kovidgoyal.net/kitty/overview/)
+For more information refer to [kitty Documentation](https://sw.kovidgoyal.net/kitty/overview/).
 
 ---
 
@@ -83,3 +82,7 @@ For more information refer to [kitty Documentation](https://sw.kovidgoyal.net/ki
 
 * [Hack Nerd Fonts](https://www.nerdfonts.com/) used in terminal, rofi, dunst and polybar.
 * [Noto Sans JP](https://fonts.google.com/noto/specimen/Noto+Sans+JP) used in polybar workspaces.
+
+---
+
+![GitHub](https://img.shields.io/github/license/brsalcedom/dotfiles?logo=Github&style=flat-square)
