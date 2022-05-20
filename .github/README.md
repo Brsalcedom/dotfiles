@@ -2,7 +2,7 @@
 
 # Introduction
 
-Inspired by [s4vitar's setup](https://youtu.be/fshLf6u8B-w) i decided to create my own custom rice using Arch Linux and my favorite software and tools. The purpose of this repo is to organize my settings, scripts and keyboard shortcuts and make it available for anyone who wants to use it. I'm not going through the installation process.
+Inspired by [s4vitar's setup](https://youtu.be/fshLf6u8B-w) i decided to create my own custom rice using Arch Linux and my favourite software and tools. The purpose of this repo is to organize my settings, scripts and keyboard shortcuts and make it available for anyone who wants to use it. I'm not going through the installation process.
 
 ---
 
@@ -86,6 +86,6 @@ For more information refer to [kitty Documentation](https://sw.kovidgoyal.net/ki
 ---
 <div align="center">
 
-<a href="https://github.com/Brsalcedom/dotfiles/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/brsalcedom/dotfiles?logo=Github&style=flat-square">
+<a href="https://github.com/Brsalcedom/dotfiles/blob/main/.github/LICENSE"><img src="https://img.shields.io/github/license/brsalcedom/dotfiles?logo=Github&style=flat-square">
 
 </div>
